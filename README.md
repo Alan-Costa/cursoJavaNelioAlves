@@ -1,2 +1,2 @@
-# cursoJavaNelioAlves
-Curso de Java e POO ministrado pelo Professor Nélio Alves
+# springCourse
+Parte do curso Java e OO Nélio Alves dedicado a um projeto Spring Boot
